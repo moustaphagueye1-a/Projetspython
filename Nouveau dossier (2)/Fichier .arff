@@ -1,0 +1,15 @@
+@RELATION points
+
+@ATTRIBUTE nom STRING
+@ATTRIBUTE x NUMERIC
+@ATTRIBUTE y NUMERIC
+
+@DATA
+Pascal,2,10
+Demba,2,5
+Sophie,8,4
+Amadou,5,8
+Lamine,7,5
+Binta,6,4
+Cathy,1,2
+Nafi,4,9

@@ -1,0 +1,4160 @@
+[
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:04"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:06"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:08"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:10"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:12"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:14"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:16"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:18"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:20"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:22"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:24"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:26"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:28"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:30"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:32"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:34"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:36"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:38"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:40"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:42"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:44"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:46"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:49"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:51"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:53"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:55"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:57"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:31:59"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:01"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:03"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:05"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:07"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:09"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:11"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:13"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:15"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:17"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:19"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:21"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:23"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:25"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:27"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:29"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:31"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:33"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:35"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:37"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:39"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:41"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:43"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:45"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:47"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:49"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:51"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:54"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:56"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:32:58"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:00"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:02"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:04"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:06"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 31.0,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:08"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:10"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:12"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:14"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:33:16"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:10"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:12"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:14"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:16"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:18"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:20"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:22"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:24"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:26"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:28"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:30"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:32"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:34"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:36"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:38"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:40"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:42"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:44"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:46"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:48"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:50"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:52"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:54"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:56"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:36:59"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:01"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:03"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:05"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:07"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:09"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:11"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:13"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:15"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:17"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:19"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:21"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:23"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:25"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:27"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:29"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:31"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:33"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:35"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:37"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:39"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:41"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:43"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:45"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:47"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:49"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:51"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:53"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:55"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:57"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:37:59"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:01"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:04"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:06"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:08"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:10"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:12"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:14"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:16"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:18"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:20"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:22"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:24"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:26"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:28"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:30"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:32"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:34"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:36"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:38"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:40"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:42"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:44"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:46"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:48"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:50"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:52"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:54"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:56"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:38:58"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:00"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:02"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:04"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:06"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:09"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:11"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:13"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:15"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:17"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:19"
+  },
+  {
+    "hum_air": 25.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:21"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:23"
+  },
+  {
+    "hum_air": 30.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:25"
+  },
+  {
+    "hum_air": 34.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:27"
+  },
+  {
+    "hum_air": 37.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:29"
+  },
+  {
+    "hum_air": 39.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:31"
+  },
+  {
+    "hum_air": 39.0,
+    "temperature": 30.9,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:33"
+  },
+  {
+    "hum_air": 39.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:37"
+  },
+  {
+    "hum_air": 38.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:39"
+  },
+  {
+    "hum_air": 37.0,
+    "temperature": 30.7,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:41"
+  },
+  {
+    "hum_air": 37.0,
+    "temperature": 30.7,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:43"
+  },
+  {
+    "hum_air": 36.0,
+    "temperature": 30.7,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:45"
+  },
+  {
+    "hum_air": 35.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:47"
+  },
+  {
+    "hum_air": 34.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:49"
+  },
+  {
+    "hum_air": 34.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:51"
+  },
+  {
+    "hum_air": 33.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:53"
+  },
+  {
+    "hum_air": 33.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:55"
+  },
+  {
+    "hum_air": 33.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:57"
+  },
+  {
+    "hum_air": 32.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:39:59"
+  },
+  {
+    "hum_air": 31.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:01"
+  },
+  {
+    "hum_air": 31.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:03"
+  },
+  {
+    "hum_air": 31.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:05"
+  },
+  {
+    "hum_air": 30.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:07"
+  },
+  {
+    "hum_air": 30.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:09"
+  },
+  {
+    "hum_air": 30.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:11"
+  },
+  {
+    "hum_air": 30.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:14"
+  },
+  {
+    "hum_air": 29.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:16"
+  },
+  {
+    "hum_air": 29.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:18"
+  },
+  {
+    "hum_air": 29.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:20"
+  },
+  {
+    "hum_air": 29.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:22"
+  },
+  {
+    "hum_air": 28.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:24"
+  },
+  {
+    "hum_air": 28.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:26"
+  },
+  {
+    "hum_air": 28.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:28"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:30"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:32"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.5,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:34"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:36"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:38"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:40"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:42"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:44"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:46"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:48"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:50"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:52"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:54"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:56"
+  },
+  {
+    "hum_air": 27.0,
+    "temperature": 30.6,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:40:58"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:44:59"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:45:01"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:45:03"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:45:05"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:45:08"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:45:10"
+  },
+  {
+    "hum_air": 26.0,
+    "temperature": 30.8,
+    "lumiere": 1023,
+    "timestamp": "2026-04-22 22:45:12"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:22:26"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:22:28"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:22:30"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 531,
+    "timestamp": "2026-04-23 17:22:32"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:22:34"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:22:36"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:22:38"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:22:40"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:22:42"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 476,
+    "timestamp": "2026-04-23 17:22:44"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 481,
+    "timestamp": "2026-04-23 17:22:46"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:22:48"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:22:50"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 34.0,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:22:52"
+  },
+  {
+    "hum_air": 20.0,
+    "temperature": 34.0,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:22:54"
+  },
+  {
+    "hum_air": 21.0,
+    "temperature": 34.0,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:22:56"
+  },
+  {
+    "hum_air": 21.0,
+    "temperature": 34.0,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:22:58"
+  },
+  {
+    "hum_air": 20.0,
+    "temperature": 34.0,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:23:00"
+  },
+  {
+    "hum_air": 20.0,
+    "temperature": 33.9,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:23:02"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:23:04"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:23:06"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:23:08"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:23:10"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:23:12"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 509,
+    "timestamp": "2026-04-23 17:23:14"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:23:16"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:23:18"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:23:20"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:23:22"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:23:24"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 34.0,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:23:26"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:23:28"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:23:31"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:23:33"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 528,
+    "timestamp": "2026-04-23 17:23:35"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:23:37"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:23:39"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:23:41"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:23:43"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:23:45"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:23:47"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:23:49"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:23:51"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:23:53"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:23:55"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:23:57"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:23:59"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:24:01"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:24:03"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:05"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:24:07"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:24:09"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:11"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:24:13"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:15"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:17"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:24:19"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:24:21"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 531,
+    "timestamp": "2026-04-23 17:24:23"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:25"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 531,
+    "timestamp": "2026-04-23 17:24:27"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:29"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:24:31"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:24:33"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:24:36"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:24:38"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:24:40"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:24:42"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 543,
+    "timestamp": "2026-04-23 17:24:44"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:24:46"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:24:48"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:24:50"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:24:52"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 527,
+    "timestamp": "2026-04-23 17:24:54"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:24:56"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:24:58"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:25:00"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:25:02"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:25:04"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:25:06"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:25:08"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:25:10"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:25:12"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:25:14"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:25:16"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:25:18"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:25:20"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:25:22"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:25:24"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 521,
+    "timestamp": "2026-04-23 17:25:26"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:25:28"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:25:30"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:25:32"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:25:34"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:25:36"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:25:38"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:25:41"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:25:43"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:25:45"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:25:47"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:25:49"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:25:51"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:25:53"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:25:55"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:25:57"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:25:59"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:26:01"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:26:03"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:26:05"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 531,
+    "timestamp": "2026-04-23 17:26:07"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:26:09"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 550,
+    "timestamp": "2026-04-23 17:26:11"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:26:13"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:26:15"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:26:17"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:26:19"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:26:21"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:26:23"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 505,
+    "timestamp": "2026-04-23 17:26:25"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.0,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:26:27"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 34.0,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:26:29"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 34.0,
+    "lumiere": 455,
+    "timestamp": "2026-04-23 17:26:31"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 34.0,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:26:33"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 34.0,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:26:35"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 34.0,
+    "lumiere": 527,
+    "timestamp": "2026-04-23 17:26:37"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:26:39"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:26:41"
+  },
+  {
+    "hum_air": 19.0,
+    "temperature": 33.9,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:26:43"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:26:46"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:26:48"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 555,
+    "timestamp": "2026-04-23 17:26:50"
+  },
+  {
+    "hum_air": 18.0,
+    "temperature": 33.9,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:26:52"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:26:54"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:26:56"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:26:58"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 550,
+    "timestamp": "2026-04-23 17:27:00"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:27:02"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:27:04"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:27:06"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:27:08"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:27:10"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 33.9,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:27:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 33.9,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:27:14"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.0,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:27:16"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.0,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:27:18"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.0,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:27:20"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.0,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:27:22"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.0,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:27:24"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:27:26"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 513,
+    "timestamp": "2026-04-23 17:27:28"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 543,
+    "timestamp": "2026-04-23 17:27:30"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:27:32"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:27:34"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:27:36"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:27:38"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:27:40"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:27:42"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 536,
+    "timestamp": "2026-04-23 17:27:44"
+  },
+  {
+    "hum_air": 17.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:27:46"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:27:48"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:27:51"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:27:53"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:27:55"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:27:57"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:27:59"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:28:01"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:28:03"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 539,
+    "timestamp": "2026-04-23 17:28:05"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:28:07"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:28:09"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:28:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:28:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:28:15"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:28:17"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:28:19"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:28:21"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:28:23"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:28:25"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:28:27"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:28:29"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 528,
+    "timestamp": "2026-04-23 17:28:31"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.1,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:28:33"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 538,
+    "timestamp": "2026-04-23 17:28:35"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 531,
+    "timestamp": "2026-04-23 17:29:09"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 534,
+    "timestamp": "2026-04-23 17:29:10"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 555,
+    "timestamp": "2026-04-23 17:29:10"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 560,
+    "timestamp": "2026-04-23 17:29:10"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:29:10"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:29:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:29:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 556,
+    "timestamp": "2026-04-23 17:29:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.2,
+    "lumiere": 553,
+    "timestamp": "2026-04-23 17:29:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:29:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:29:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 564,
+    "timestamp": "2026-04-23 17:29:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 556,
+    "timestamp": "2026-04-23 17:29:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:29:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 567,
+    "timestamp": "2026-04-23 17:29:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 557,
+    "timestamp": "2026-04-23 17:29:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 543,
+    "timestamp": "2026-04-23 17:29:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:29:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 568,
+    "timestamp": "2026-04-23 17:29:14"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:29:16"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 557,
+    "timestamp": "2026-04-23 17:29:18"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:29:20"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 555,
+    "timestamp": "2026-04-23 17:29:22"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:29:24"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:29:26"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 550,
+    "timestamp": "2026-04-23 17:29:28"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:29:30"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 559,
+    "timestamp": "2026-04-23 17:29:32"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 565,
+    "timestamp": "2026-04-23 17:29:34"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:29:36"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:29:38"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 556,
+    "timestamp": "2026-04-23 17:29:40"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 564,
+    "timestamp": "2026-04-23 17:29:42"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 557,
+    "timestamp": "2026-04-23 17:29:44"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:29:46"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:29:48"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 559,
+    "timestamp": "2026-04-23 17:29:50"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.3,
+    "lumiere": 561,
+    "timestamp": "2026-04-23 17:29:52"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 560,
+    "timestamp": "2026-04-23 17:29:54"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 559,
+    "timestamp": "2026-04-23 17:29:56"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 553,
+    "timestamp": "2026-04-23 17:29:58"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:30:01"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:30:03"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 543,
+    "timestamp": "2026-04-23 17:30:05"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:30:07"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:30:09"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:30:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:30:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 561,
+    "timestamp": "2026-04-23 17:30:15"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 558,
+    "timestamp": "2026-04-23 17:30:17"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 544,
+    "timestamp": "2026-04-23 17:30:19"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 560,
+    "timestamp": "2026-04-23 17:30:21"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:30:23"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 550,
+    "timestamp": "2026-04-23 17:30:25"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 561,
+    "timestamp": "2026-04-23 17:30:27"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 567,
+    "timestamp": "2026-04-23 17:30:29"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 556,
+    "timestamp": "2026-04-23 17:30:31"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:30:33"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 565,
+    "timestamp": "2026-04-23 17:30:35"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 561,
+    "timestamp": "2026-04-23 17:30:37"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:30:39"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 555,
+    "timestamp": "2026-04-23 17:30:41"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:30:43"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 565,
+    "timestamp": "2026-04-23 17:30:45"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:30:47"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:30:49"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:30:51"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 565,
+    "timestamp": "2026-04-23 17:30:53"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:30:55"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:30:57"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 555,
+    "timestamp": "2026-04-23 17:30:59"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 550,
+    "timestamp": "2026-04-23 17:31:01"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 558,
+    "timestamp": "2026-04-23 17:31:03"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:31:06"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 565,
+    "timestamp": "2026-04-23 17:31:08"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 565,
+    "timestamp": "2026-04-23 17:31:10"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 564,
+    "timestamp": "2026-04-23 17:31:12"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 562,
+    "timestamp": "2026-04-23 17:31:14"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 556,
+    "timestamp": "2026-04-23 17:31:16"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:31:18"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 553,
+    "timestamp": "2026-04-23 17:31:20"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 562,
+    "timestamp": "2026-04-23 17:31:22"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:31:24"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 566,
+    "timestamp": "2026-04-23 17:31:26"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 560,
+    "timestamp": "2026-04-23 17:31:28"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:31:30"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 553,
+    "timestamp": "2026-04-23 17:31:32"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 564,
+    "timestamp": "2026-04-23 17:31:34"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 552,
+    "timestamp": "2026-04-23 17:31:36"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:31:38"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:31:40"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 563,
+    "timestamp": "2026-04-23 17:31:42"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:31:44"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:31:46"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:31:48"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 562,
+    "timestamp": "2026-04-23 17:31:50"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.4,
+    "lumiere": 561,
+    "timestamp": "2026-04-23 17:31:52"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 558,
+    "timestamp": "2026-04-23 17:31:54"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:31:56"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:31:58"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 468,
+    "timestamp": "2026-04-23 17:32:00"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 543,
+    "timestamp": "2026-04-23 17:32:02"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:32:04"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 489,
+    "timestamp": "2026-04-23 17:32:06"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:32:08"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 518,
+    "timestamp": "2026-04-23 17:32:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:32:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:32:15"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 550,
+    "timestamp": "2026-04-23 17:32:17"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:32:19"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:32:21"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:32:23"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 551,
+    "timestamp": "2026-04-23 17:32:25"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 547,
+    "timestamp": "2026-04-23 17:32:27"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 496,
+    "timestamp": "2026-04-23 17:32:29"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 543,
+    "timestamp": "2026-04-23 17:32:31"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 559,
+    "timestamp": "2026-04-23 17:32:33"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:32:35"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 549,
+    "timestamp": "2026-04-23 17:32:37"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 558,
+    "timestamp": "2026-04-23 17:32:39"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:32:41"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:32:43"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 554,
+    "timestamp": "2026-04-23 17:32:45"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 557,
+    "timestamp": "2026-04-23 17:32:47"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:32:49"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:32:51"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:32:53"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 531,
+    "timestamp": "2026-04-23 17:32:55"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:32:57"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:32:59"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 540,
+    "timestamp": "2026-04-23 17:33:01"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 546,
+    "timestamp": "2026-04-23 17:33:03"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 535,
+    "timestamp": "2026-04-23 17:33:05"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 548,
+    "timestamp": "2026-04-23 17:33:07"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:33:09"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 545,
+    "timestamp": "2026-04-23 17:33:11"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:33:13"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:33:16"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 537,
+    "timestamp": "2026-04-23 17:33:18"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.5,
+    "lumiere": 542,
+    "timestamp": "2026-04-23 17:33:20"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.5,
+    "lumiere": 541,
+    "timestamp": "2026-04-23 17:33:22"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 518,
+    "timestamp": "2026-04-23 17:33:24"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:33:26"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 533,
+    "timestamp": "2026-04-23 17:33:28"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:33:30"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 532,
+    "timestamp": "2026-04-23 17:33:32"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:33:34"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 529,
+    "timestamp": "2026-04-23 17:33:36"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:33:38"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:33:40"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:33:42"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:33:44"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:33:46"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:33:48"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 528,
+    "timestamp": "2026-04-23 17:33:50"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:33:52"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 530,
+    "timestamp": "2026-04-23 17:33:54"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 521,
+    "timestamp": "2026-04-23 17:33:56"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:33:58"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 528,
+    "timestamp": "2026-04-23 17:34:00"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:34:02"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:34:04"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:34:06"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:34:08"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:34:10"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:34:12"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:34:14"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:34:16"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 513,
+    "timestamp": "2026-04-23 17:34:18"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:34:21"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 518,
+    "timestamp": "2026-04-23 17:34:23"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:34:25"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:34:27"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:34:29"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:34:31"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 515,
+    "timestamp": "2026-04-23 17:34:33"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:34:35"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 528,
+    "timestamp": "2026-04-23 17:34:37"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 515,
+    "timestamp": "2026-04-23 17:34:39"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:34:41"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:34:43"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:34:45"
+  },
+  {
+    "hum_air": 16.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:34:47"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:34:49"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:34:51"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:34:53"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:34:55"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:34:57"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:34:59"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 527,
+    "timestamp": "2026-04-23 17:35:01"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:35:03"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:35:05"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:35:07"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:35:09"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:35:11"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:35:13"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:35:15"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:35:17"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:35:19"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:35:21"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 513,
+    "timestamp": "2026-04-23 17:35:23"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 524,
+    "timestamp": "2026-04-23 17:35:26"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:35:28"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:35:30"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:35:32"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:35:34"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:35:36"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 513,
+    "timestamp": "2026-04-23 17:35:38"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 526,
+    "timestamp": "2026-04-23 17:35:40"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:35:42"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:35:44"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 525,
+    "timestamp": "2026-04-23 17:35:46"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:35:48"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 511,
+    "timestamp": "2026-04-23 17:35:50"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 518,
+    "timestamp": "2026-04-23 17:35:52"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:35:54"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:35:56"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:35:58"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 522,
+    "timestamp": "2026-04-23 17:36:00"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:36:02"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 523,
+    "timestamp": "2026-04-23 17:36:04"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 518,
+    "timestamp": "2026-04-23 17:36:06"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 510,
+    "timestamp": "2026-04-23 17:36:08"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:36:10"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 507,
+    "timestamp": "2026-04-23 17:36:12"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:36:14"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 506,
+    "timestamp": "2026-04-23 17:36:16"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 499,
+    "timestamp": "2026-04-23 17:36:18"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 498,
+    "timestamp": "2026-04-23 17:36:20"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 507,
+    "timestamp": "2026-04-23 17:36:22"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:36:24"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:36:26"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:36:29"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 519,
+    "timestamp": "2026-04-23 17:36:31"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:36:33"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 518,
+    "timestamp": "2026-04-23 17:36:35"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:36:37"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 516,
+    "timestamp": "2026-04-23 17:36:39"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 515,
+    "timestamp": "2026-04-23 17:36:41"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 511,
+    "timestamp": "2026-04-23 17:36:43"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 508,
+    "timestamp": "2026-04-23 17:36:45"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 511,
+    "timestamp": "2026-04-23 17:36:47"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 520,
+    "timestamp": "2026-04-23 17:36:49"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 507,
+    "timestamp": "2026-04-23 17:36:51"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 510,
+    "timestamp": "2026-04-23 17:36:53"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 515,
+    "timestamp": "2026-04-23 17:36:55"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 503,
+    "timestamp": "2026-04-23 17:36:57"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:36:59"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:37:01"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 507,
+    "timestamp": "2026-04-23 17:37:03"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 504,
+    "timestamp": "2026-04-23 17:37:05"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:37:07"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:37:09"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 517,
+    "timestamp": "2026-04-23 17:37:11"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:37:13"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 512,
+    "timestamp": "2026-04-23 17:37:15"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 510,
+    "timestamp": "2026-04-23 17:37:17"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:37:19"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 515,
+    "timestamp": "2026-04-23 17:37:21"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 515,
+    "timestamp": "2026-04-23 17:37:23"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:37:25"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 509,
+    "timestamp": "2026-04-23 17:37:27"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 505,
+    "timestamp": "2026-04-23 17:37:29"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 503,
+    "timestamp": "2026-04-23 17:37:31"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:37:34"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 502,
+    "timestamp": "2026-04-23 17:37:36"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 514,
+    "timestamp": "2026-04-23 17:37:38"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 506,
+    "timestamp": "2026-04-23 17:37:40"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 501,
+    "timestamp": "2026-04-23 17:37:42"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 513,
+    "timestamp": "2026-04-23 17:37:44"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 499,
+    "timestamp": "2026-04-23 17:37:46"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 504,
+    "timestamp": "2026-04-23 17:37:48"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 510,
+    "timestamp": "2026-04-23 17:37:50"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 513,
+    "timestamp": "2026-04-23 17:37:52"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 502,
+    "timestamp": "2026-04-23 17:37:54"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 503,
+    "timestamp": "2026-04-23 17:37:56"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 502,
+    "timestamp": "2026-04-23 17:37:58"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 499,
+    "timestamp": "2026-04-23 17:38:00"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 494,
+    "timestamp": "2026-04-23 17:38:02"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 493,
+    "timestamp": "2026-04-23 17:38:04"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 487,
+    "timestamp": "2026-04-23 17:38:06"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 493,
+    "timestamp": "2026-04-23 17:38:08"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 495,
+    "timestamp": "2026-04-23 17:38:10"
+  },
+  {
+    "hum_air": 15.0,
+    "temperature": 34.6,
+    "lumiere": 501,
+    "timestamp": "2026-04-23 17:38:12"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 506,
+    "timestamp": "2026-04-23 17:38:14"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 509,
+    "timestamp": "2026-04-23 17:38:16"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 508,
+    "timestamp": "2026-04-23 17:38:18"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 506,
+    "timestamp": "2026-04-23 17:38:20"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 510,
+    "timestamp": "2026-04-23 17:38:22"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 504,
+    "timestamp": "2026-04-23 17:38:24"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 502,
+    "timestamp": "2026-04-23 17:38:26"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 498,
+    "timestamp": "2026-04-23 17:38:28"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 468,
+    "timestamp": "2026-04-23 17:38:30"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 471,
+    "timestamp": "2026-04-23 17:38:32"
+  },
+  {
+    "hum_air": 14.0,
+    "temperature": 34.6,
+    "lumiere": 476,
+    "timestamp": "2026-04-23 17:38:34"
+  }
+]

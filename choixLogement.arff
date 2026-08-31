@@ -1,0 +1,23 @@
+@relation choixLogement
+
+@attribute emplacement {banlieue,rural,ville}
+@attribute typeMaison {unifamiliale,jumelée,rangée}
+@attribute revenu {élevé,bas}
+@attribute clientAntérieur {oui,non}
+@attribute résultat {insatisfait,satisfait}
+
+@data
+banlieue,unifamiliale,élevé,non,insatisfait
+banlieue,unifamiliale,élevé,oui,insatisfait
+rural,unifamiliale,élevé,non,satisfait
+ville,jumelée,élevé,non,satisfait
+ville,jumelée,bas,non,satisfait
+ville,jumelée,bas,oui,insatisfait
+rural,jumelée,bas,oui,satisfait
+banlieue,rangée,élevé,non,insatisfait
+banlieue,jumelée,bas,non,satisfait
+ville,rangée,bas,non,satisfait
+banlieue,rangée,bas,oui,satisfait
+rural,rangée,élevé,oui,satisfait
+rural,unifamiliale,bas,non,satisfait
+ville,rangée,élevé,oui,insatisfait

@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<!-- saved from url=(0098)https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/models/tomate-sst99-essrp/1 -->
+<html style="background: transparent; min-width: 0px;" class="js-focus-visible mdl-js" data-js-focus-visible=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>.ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0; overflow-anchor: none;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #ddd;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ1 .cm-iso {unicode-bidi: isolate;}
+.ͼ1 .cm-announced {position: fixed; top: -10000px;}
+@media print {.ͼ1 .cm-announced {display: none;}}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; z-index: 200;}
+.ͼ1 .cm-gutters-before {inset-inline-start: 0;}
+.ͼ1 .cm-gutters-after {inset-inline-end: 0;}
+.ͼ2 .cm-gutters.cm-gutters-before {border-right-width: 1px;}
+.ͼ2 .cm-gutters.cm-gutters-after {border-left-width: 1px;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border: 0px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0; z-index: 300;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-dialog label {font-size: 80%;}
+.ͼ1 .cm-dialog {padding: 2px 19px 4px 6px; position: relative;}
+.ͼ1 .cm-dialog-close {position: absolute; top: 3px; right: 4px; background-color: inherit; border: none; font: inherit; font-size: 14px; padding: 0;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top; user-select: none;}
+.ͼ1 .cm-highlightSpace {background-image: radial-gradient(circle at 50% 55%, #aaa 20%, transparent 5%); background-position: center;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-diagnostic {padding: 3px 6px 3px 8px; margin-left: -1px; display: block; white-space: pre-wrap;}
+.ͼ1 .cm-diagnostic-error {border-left: 5px solid #d11;}
+.ͼ1 .cm-diagnostic-warning {border-left: 5px solid orange;}
+.ͼ1 .cm-diagnostic-info {border-left: 5px solid #999;}
+.ͼ1 .cm-diagnostic-hint {border-left: 5px solid #66d;}
+.ͼ1 .cm-diagnosticAction {font: inherit; border: none; padding: 2px 4px; background-color: #444; color: white; border-radius: 3px; margin-left: 8px; cursor: pointer;}
+.ͼ1 .cm-diagnosticSource {font-size: 70%; opacity: 0.7;}
+.ͼ1 .cm-lintRange {background-position: left bottom; background-repeat: repeat-x; padding-bottom: 0.7px;}
+.ͼ1 .cm-lintRange-error {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="6" height="3">%3Cpath%20d%3D%22m0%202.5%20l2%20-1.5%20l1%200%20l2%201.5%20l1%200%22%20stroke%3D%22%23d11%22%20fill%3D%22none%22%20stroke-width%3D%22.7%22%2F%3E</svg>');}
+.ͼ1 .cm-lintRange-warning {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="6" height="3">%3Cpath%20d%3D%22m0%202.5%20l2%20-1.5%20l1%200%20l2%201.5%20l1%200%22%20stroke%3D%22orange%22%20fill%3D%22none%22%20stroke-width%3D%22.7%22%2F%3E</svg>');}
+.ͼ1 .cm-lintRange-info {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="6" height="3">%3Cpath%20d%3D%22m0%202.5%20l2%20-1.5%20l1%200%20l2%201.5%20l1%200%22%20stroke%3D%22%23999%22%20fill%3D%22none%22%20stroke-width%3D%22.7%22%2F%3E</svg>');}
+.ͼ1 .cm-lintRange-hint {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="6" height="3">%3Cpath%20d%3D%22m0%202.5%20l2%20-1.5%20l1%200%20l2%201.5%20l1%200%22%20stroke%3D%22%2366d%22%20fill%3D%22none%22%20stroke-width%3D%22.7%22%2F%3E</svg>');}
+.ͼ1 .cm-lintRange-active {background-color: #ffdd9980;}
+.ͼ1 .cm-tooltip-lint {padding: 0; margin: 0;}
+.ͼ1 .cm-lintPoint:after {content: ""; position: absolute; bottom: 0; left: -2px; border-left: 3px solid transparent; border-right: 3px solid transparent; border-bottom: 4px solid #d11;}
+.ͼ1 .cm-lintPoint {position: relative;}
+.ͼ1 .cm-lintPoint-warning:after {border-bottom-color: orange;}
+.ͼ1 .cm-lintPoint-info:after {border-bottom-color: #999;}
+.ͼ1 .cm-lintPoint-hint:after {border-bottom-color: #66d;}
+.ͼ1 .cm-panel.cm-panel-lint ul [aria-selected] u {text-decoration: underline;}
+.ͼ1 .cm-panel.cm-panel-lint ul [aria-selected] {background-color: #ddd;}
+.ͼ1 .cm-panel.cm-panel-lint ul:focus [aria-selected] {background: #bdf; background-color: Highlight; color: white; color: HighlightText;}
+.ͼ1 .cm-panel.cm-panel-lint ul u {text-decoration: none;}
+.ͼ1 .cm-panel.cm-panel-lint ul {max-height: 100px; overflow-y: auto; padding: 0; margin: 0;}
+.ͼ1 .cm-panel.cm-panel-lint [name=close] {position: absolute; top: 0; right: 2px; background: inherit; border: none; font: inherit; padding: 0; margin: 0;}
+.ͼ1 .cm-panel.cm-panel-lint {position: relative;}
+.ͼ1 .cm-tooltip {z-index: 500; box-sizing: border-box;}
+.ͼ2 .cm-tooltip {border: 1px solid #bbb; background-color: #f5f5f5;}
+.ͼ2 .cm-tooltip-section:not(:first-child) {border-top: 1px solid #bbb;}
+.ͼ3 .cm-tooltip {background-color: #333338; color: white;}
+.ͼ1 .cm-tooltip-arrow:before, .ͼ1 .cm-tooltip-arrow:after {content: ''; position: absolute; width: 0; height: 0; border-left: 7px solid transparent; border-right: 7px solid transparent;}
+.ͼ1 .cm-tooltip-above .cm-tooltip-arrow:before {border-top: 7px solid #bbb;}
+.ͼ1 .cm-tooltip-above .cm-tooltip-arrow:after {border-top: 7px solid #f5f5f5; bottom: 1px;}
+.ͼ1 .cm-tooltip-above .cm-tooltip-arrow {bottom: -7px;}
+.ͼ1 .cm-tooltip-below .cm-tooltip-arrow:before {border-bottom: 7px solid #bbb;}
+.ͼ1 .cm-tooltip-below .cm-tooltip-arrow:after {border-bottom: 7px solid #f5f5f5; top: 1px;}
+.ͼ1 .cm-tooltip-below .cm-tooltip-arrow {top: -7px;}
+.ͼ1 .cm-tooltip-arrow {height: 7px; width: 14px; position: absolute; z-index: -1; overflow: hidden;}
+.ͼ3 .cm-tooltip .cm-tooltip-arrow:before {border-top-color: #333338; border-bottom-color: #333338;}
+.ͼ3 .cm-tooltip .cm-tooltip-arrow:after {border-top-color: transparent; border-bottom-color: transparent;}
+.ͼ1.cm-focused .cm-matchingBracket {background-color: #328c8252;}
+.ͼ1.cm-focused .cm-nonmatchingBracket {background-color: #bb555544;}
+.ͼ18 {color: #60a5fa;}
+.ͼ19 {color: #e879f9;}
+.ͼ1a {color: #6b7280;}
+.ͼ16 {color: #374151; padding-right: 7.2rem;}
+.ͼ16.cm-focused {outline: none;}
+.ͼ16 .cm-content {caret-color: #528BFF;}
+.ͼ16.cm-focused .cm-cursor {border-left-color: #528BFF;}
+.ͼ16.cm-focused .cm-selectionBackground, .ͼ16 ::selection {background-color: #f3e8ff !important;}
+.ͼ16 .cm-gutters {background-color: #282C34; color: #ABB2BF; border: none;}
+.ͼ16 .cm-scroller {font-family: ui-monospace, Menlo, Monaco, Cascadia Mono, Segoe UI Mono, Roboto Mono, Oxygen Mono, Ubuntu Monospace, Source Code Pro, Fira Mono, Droid Sans Mono, Courier New, monospace; overflow-x: auto; overflow-y: hidden; padding: 0.3rem 0.5rem;}
+.ͼ27 .cm-scroller {height: 100% !important;}
+.ͼ26 .cm-scroller {height: 100% !important;}
+.ͼ23 .cm-scroller {height: 100% !important;}
+.ͼ22 .cm-scroller {height: 100% !important;}
+.ͼ1z .cm-scroller {height: 100% !important;}
+.ͼ1x .cm-scroller {height: 100% !important;}
+.ͼ1w .cm-scroller {height: 100% !important;}
+.ͼ1u .cm-scroller {height: 100% !important;}
+.ͼ1s .cm-scroller {height: 100% !important;}
+.ͼ1p .cm-scroller {height: 100% !important;}
+.ͼ1o .cm-scroller {height: 100% !important;}
+.ͼ1l .cm-scroller {height: 100% !important;}
+.ͼ1j .cm-scroller {height: 100% !important;}
+.ͼ1h .cm-scroller {height: 100% !important;}
+.ͼ1f .cm-scroller {height: 100% !important;}
+</style><script async="" src="./Sign in to Roboflow_files/gist.min.js.téléchargement"></script><script async="" src="./Sign in to Roboflow_files/in-app.js.téléchargement"></script><script type="text/javascript" async="" id="_intercom_npm_loader" src="./Sign in to Roboflow_files/ehclfa58"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/gtm.js.téléchargement"></script><script src="./Sign in to Roboflow_files/350903849600565" async=""></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/fbevents.js.téléchargement"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/js"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/insight.min.js.téléchargement"></script><script type="text/javascript" src="./Sign in to Roboflow_files/commons.59560acdd69ed701c941.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Sign in to Roboflow_files/google-tag-manager.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Sign in to Roboflow_files/facebook-pixel.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Sign in to Roboflow_files/google-adwords-new.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Sign in to Roboflow_files/linkedin-insight-tag.dynamic.js.gz" async="" status="loaded"></script><script data-auto-track-page="false" async="" id="cio-tracker" data-site-id="bd767cfa913dbbe0bac4" data-use-array-params="true" data-use-in-app="true" src="./Sign in to Roboflow_files/track.js.téléchargement"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/analytics.min.js.téléchargement"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/insight.min.js.téléchargement"></script><script async="" src="./Sign in to Roboflow_files/js(1)"></script><script>window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+
+        // Defer GA config until rfuid is available (mirrors utm.js/Segment pattern).
+        // Polls for window.rfuid (set by utm.js) with localStorage fallback,
+        // timing out after 5.5s to avoid blocking analytics indefinitely.
+        (function () {
+            var GA_ID = "G-SEKT4K1EWR";
+            var start = Date.now();
+            function tryInitGa() {
+                var rfuid = window.rfuid;
+                if (!rfuid) {
+                    try { rfuid = localStorage.getItem("rfuid"); } catch (e) {}
+                }
+                if (rfuid || Date.now() - start > 5500) {
+                    clearInterval(interval);
+                    var config = { send_page_view: false };
+                    if (rfuid) { config.client_id = rfuid; }
+                    gtag("config", GA_ID, config);
+                }
+            }
+            var interval = setInterval(tryInitGa, 64);
+            tryInitGa();
+        })();</script><script>!(function () {
+            var analytics = (window.analytics = window.analytics || []);
+            if (!analytics.initialize)
+                if (!analytics.invoked) {
+                    analytics.invoked = !0;
+                    analytics.methods = [
+                        "trackSubmit",
+                        "trackClick",
+                        "trackLink",
+                        "trackForm",
+                        "pageview",
+                        "identify",
+                        "reset",
+                        "group",
+                        "track",
+                        "ready",
+                        "alias",
+                        "debug",
+                        "page",
+                        "once",
+                        "off",
+                        "on",
+                        "addSourceMiddleware",
+                        "addIntegrationMiddleware",
+                        "setAnonymousId"
+                    ];
+                    analytics.factory = function (e) {
+                        return function () {
+                            var t = Array.prototype.slice.call(arguments);
+                            t.unshift(e);
+                            analytics.push(t);
+                            return analytics;
+                        };
+                    };
+                    for (var e = 0; e < analytics.methods.length; e++) {
+                        var t = analytics.methods[e];
+                        analytics[t] = analytics.factory(t);
+                    }
+                    analytics.load = function (e, t) {
+                        var n = document.createElement("script");
+                        n.type = "text/javascript";
+                        n.async = !0;
+                        n.src =
+                            "https://cdn.segment.com/analytics.js/v1/" +
+                            e +
+                            "/analytics.min.js";
+                        var a = document.getElementsByTagName("script")[0];
+                        a.parentNode.insertBefore(n, a);
+                        analytics._loadOptions = t;
+                    };
+                    analytics.SNIPPET_VERSION = "4.1.0";
+
+                    // utm.js will load segment with a custom cross-subdomain anon id later.
+                    window.segmentWriteKey = "eXtDJCxffULSITBEV2KMzv7MwuBkMvty";
+                }
+        })();</script><script>var _cio = _cio || [];</script><script>_linkedin_partner_id = "6901572";
+        window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+        window._linkedin_data_partner_ids.push(_linkedin_partner_id);</script><script>(function (l) {
+            if (!l) {
+                window.lintrk = function (a, b) {
+                    window.lintrk.q.push([a, b]);
+                };
+                window.lintrk.q = [];
+            }
+            var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript";
+            b.async = true;
+            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+            s.parentNode.insertBefore(b, s);
+        })(window.lintrk);</script><script>window.addEventListener('DOMContentLoaded', function() {
+            if (location.hostname.includes("localhost")) {
+                document.body.classList.add("localhost");
+            }
+        });</script><noscript><img height="1" width="1" style="display: none" alt="" src="https://px.ads.linkedin.com/collect/?pid=6901572&fmt=gif"/></noscript><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="origin-trial" content="AuPb5SaXC8LM/CS05jdR5kZbSXe6rax9B0awGzMkmQVJ00mm2TJYBzoMEnj7S6aFXJpxMHCr8zJTjm4fKoVodQAAAAB2eyJvcmlnaW4iOiJodHRwczovL3JvYm9mbG93LmNvbTo0NDMiLCJmZWF0dXJlIjoiVW5yZXN0cmljdGVkU2hhcmVkQXJyYXlCdWZmZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="AlZWJtQGldjwGDF0dhcY08I40ZEfjhawsIdfJJNJeBCqvF9Fbrsc1ga0Si3YZPTkdLE7YfMt73JP94Ith1l2EQAAAAB2eyJvcmlnaW4iOiJodHRwczovL3JvYm9mbG93Lm9uZTo0NDMiLCJmZWF0dXJlIjoiVW5yZXN0cmljdGVkU2hhcmVkQXJyYXlCdWZmZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><title>Sign in to Roboflow</title><meta name="description" content="Even if you&#39;re not a machine learning expert, you can use Roboflow train a custom, state-of-the-art computer vision model on your own data."><meta content="Sign in to Roboflow" property="og:title"><meta content="Even if you&#39;re not a machine learning expert, you can use Roboflow train a custom, state-of-the-art computer vision model on your own data." property="og:description"><meta content="https://uploads-ssl.webflow.com/5eca8e43c4dfff837f0f6392/5ee8424f73bb8d29483cc9d5_roboflow-opengraph.png" property="og:image"><meta content="Sign in to Roboflow" property="twitter:title"><meta content="Even if you&#39;re not a machine learning expert, you can use Roboflow train a custom, state-of-the-art computer vision model on your own data." property="twitter:description"><meta content="https://uploads-ssl.webflow.com/5eca8e43c4dfff837f0f6392/5ee8424f73bb8d29483cc9d5_roboflow-opengraph.png" property="twitter:image"><meta property="og:type" content="website"><meta content="summary_large_image" name="twitter:card"><script defer="defer" src="./Sign in to Roboflow_files/utm.js.téléchargement"></script><script src="./Sign in to Roboflow_files/firebaseui__en.js.téléchargement"></script><link rel="stylesheet" href="./Sign in to Roboflow_files/firebase-ui-auth.css"><link href="./Sign in to Roboflow_files/all.min.css" rel="stylesheet"><link href="./Sign in to Roboflow_files/custom-icons.css" rel="stylesheet"><link rel="stylesheet" href="./Sign in to Roboflow_files/animate.min.css"><link rel="stylesheet" href="./Sign in to Roboflow_files/ion.rangeSlider.min.css"><link rel="stylesheet" href="./Sign in to Roboflow_files/introjs.min.css"><link href="./Sign in to Roboflow_files/inter.css" rel="stylesheet"><script crossorigin="anonymous" src="./Sign in to Roboflow_files/jquery.min.js.téléchargement" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/jquery-ui.min.js.téléchargement" integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/async.min.js.téléchargement" integrity="sha384-tupr6Ie66boUb4gglQOLverKDLOwODAHc+hJPh+ulszHbBJqRQct5jVPh6/Yq8b3"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/lodash.min.js.téléchargement" integrity="sha384-EnW5v27oxpPV45dNJxtnA2OWfHpDTXuO/EzFl+c1vzZcB1aWeANNH0pFZLJ6Gsbr"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/crypto-js.min.js.téléchargement" integrity="sha384-lp4k1VRKPU9eBnPePjnJ9M2RF3i7PC30gXs70+elCVfgwLwx1tv5+ctxdtwxqZa7"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/load-image.all.min.js.téléchargement" integrity="sha384-hMjojq5cF5NVwLzCR0NN+DnRVyI7jKFyamHNoQmXlAQAvgEGZ3SIvO4XOUGkP4sm"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/moment.min.js.téléchargement" integrity="sha384-VCGDSwGwLWkVOK5vAWSaY38KZ4oKJ0whHjpJQhjqrMlWadpf2dUVKLgOLBdEaLvZ"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/moment-timezone.min.js.téléchargement" integrity="sha384-nWOAYdFpHhjuh5SOnU+rGRpxKAyuV4ET5d5SK+0Dd7JrskK4hOzbJw/gbKUF0uDt"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/popper.min.js.téléchargement" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/ion.rangeSlider.min.js.téléchargement" integrity="sha384-cf8mHYQaKSOaiRBGJcyFF2GiP/sNHZG5icHw4ntxCOu/3t+BX3h8ChuGjNIkO3m8"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/js.cookie.min.js.téléchargement" integrity="sha384-eITc5AorI6xzkW7XunGaNrcA0l6qrU/kA/mOhLQOC5thAzlHSClQTOecyzGK6QXK"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/typeit.min.js.téléchargement" integrity="sha384-gzhEeSlyG06PkBpPOQo4E0tPOoj5bfN5aDZmciPpVsn2G48MpSLmJXVaa2f6CowS"></script><script crossorigin="anonymous" src="./Sign in to Roboflow_files/intro.min.js.téléchargement" integrity="sha384-jOrdVYsKWezFegLEGGN+CP4kmWgv6asGPRkZQyKaoYSzmnc7YQp8VDSKNvan2gsw"></script><link href="./Sign in to Roboflow_files/widget.css" rel="stylesheet"><script defer="defer" src="./Sign in to Roboflow_files/widget.js.téléchargement"></script><script src="./Sign in to Roboflow_files/saved_resource"></script><script defer="defer" src="./Sign in to Roboflow_files/runtime.10b391758d5bedc513b2.js.téléchargement"></script><script defer="defer" src="./Sign in to Roboflow_files/2515.2d06949d58666f819f73.js.téléchargement"></script><script defer="defer" src="./Sign in to Roboflow_files/6146.fa26a04e7a7b4b7c055d.js.téléchargement"></script><script defer="defer" src="./Sign in to Roboflow_files/roboflow.cef43d7261ef7c1de796.js.téléchargement"></script><link href="./Sign in to Roboflow_files/6146.6b34a975aefe7bd253cc.css" rel="stylesheet"><link href="./Sign in to Roboflow_files/roboflow.4c1a3f40ef04ab3c079d.css" rel="stylesheet"><link type="text/css" rel="stylesheet" charset="UTF-8" href="./Sign in to Roboflow_files/m=el_main_css"><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f.txt"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f(1).txt"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f(2).txt"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f(3).txt"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f(4).txt"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f(5).txt"></script><script type="text/javascript" async="" src="./Sign in to Roboflow_files/f(6).txt"></script></head><body class="prod" style="background: transparent; padding: 0px; margin: 0px; min-width: 0px;"><div class="rfWidget">
+    <div id="pageDrop" class="pageDrop" hidden="" style="display: none;">
+        <div class="borderDash">
+            <div class="content">
+                <div class="title">
+                    <i class="fas fa-file-import"></i>
+                    <div id="dropLabel">TRY THIS MODEL</div>
+                </div>
+                <div class="description">
+                    <div>Drop image here to test</div>
+                    <div id="pageDropEndpoint" class="model">tomate-sst99-essrp/1 (latest)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div id="SSRGlobalNavbar" class="navbarContainer2"><div class="h-full w-full" data-react="Navbar" data-path="/moustaphas-workspace-japs9/tomate-sst99-essrp/models" data-dataset="tomate-sst99-essrp"><nav class="collapsed light navbar2"><div class="hidden h-full flex-col md:flex"><div class="flex h-full flex-col justify-between gap-2 md:px-2 md:pb-2 md:pt-6"><div class="flex flex-col gap-3 pt-2"><div class="logo-container group relative flex w-full flex-none flex-col items-center justify-center py-0.5 gap-1"><a href="https://app.roboflow.com/" aria-label="Go to App Home" class="logos buttonItem group relative flex w-full flex-row items-center justify-center gap-[10px]"><svg class="logomark relative h-6 w-6 flex-none"><use href="#logomark"></use></svg><svg class="wordmark h-5 w-[87px] flex-none pb-1"><use href="#wordmark"></use></svg></a><div class="hoverTooltip group-hover:opacity-100"><span>Go to App Home</span></div></div><div class="flex w-full flex-col items-center gap-2"><div class="headless-menu px-.05 workspaceSwitcher group relative h-12 w-full"><div class="relative h-full sm:w-full " data-headlessui-state=""><button class="workspaceSwitcherControl group focus:outline-none focus:ring-0 hover:bg-opacity-30 hover:bg-purple-500" id="headlessui-menu-button-:r0:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><div class="far fa-arrow-up-arrow-down workspaceChevron flex-none text-xs text-gray-200 group-hover:text-white"></div><div class="workspaceInfo min-w-0 flex-1 flex-col gap-1 font-sans"><div class="flex flex-row items-center gap-[6px]"><span class="truncate text-sm font-medium text-white">Moustaphas Workspace</span></div><div class="flex flex-row items-center gap-1"><div class="flex flex-row items-center gap-1"><span class="whitespace-nowrap text-left text-[10px] font-normal text-gray-200">Public Plan</span><span class="text-[10px] text-gray-200">•</span></div><span class="whitespace-nowrap text-left text-[10px] font-normal text-gray-200">1 Member</span></div></div><i class="workspaceTrailingChevron far fa-chevron-right hidden flex-none pt-1 text-[10px] md:inline text-gray-200 group-hover:text-white"></i></button></div><div class="hoverTooltip workspaces pointer-events-none absolute -right-4 top-0 z-40 h-16 translate-x-full flex-col !items-start gap-1 group-hover:opacity-100"><span>Switch Workspaces</span><span class="text-sm font-semibold">Moustaphas Workspace</span></div></div><a class="navLink buttonItem desktop group relative z-40 home " href="https://app.roboflow.com/moustaphas-workspace-japs9/home" tabindex="1"><span class="linkLabel"><i class="far relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110 fa-fw linkIcon fa-home"><i class="linkIconHover fas fa-home absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-100"></i></i><span class="linkText">Home</span></span><div class="hoverTooltip group-hover:opacity-100"><span>Home</span></div></a><a class="navLink buttonItem desktop group relative z-40 projects selected" href="https://app.roboflow.com/moustaphas-workspace-japs9/projects" tabindex="2"><span class="linkLabel"><i class="fas fa-fw linkIcon fa-inbox"></i><span class="linkText">Projects</span></span><div class="hoverTooltip group-hover:opacity-100"><span>Projects</span></div></a><a class="navLink buttonItem desktop group relative z-40 workflows " href="https://app.roboflow.com/moustaphas-workspace-japs9/workflows" tabindex="3"><span class="linkLabel"><i class="far relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110 fa-fw linkIcon fa-network-wired"><i class="linkIconHover fas fa-network-wired absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-100"></i></i><span class="linkText">Workflows</span></span><div class="hoverTooltip group-hover:opacity-100"><span>Workflows</span></div></a><a class="navLink buttonItem desktop group relative z-40 vision-events " href="https://app.roboflow.com/moustaphas-workspace-japs9/vision-events" tabindex="4"><span class="linkLabel"><i class="far relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110 fa-fw linkIcon fa-chart-column"><i class="linkIconHover fas fa-chart-column absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-100"></i></i><span class="linkText">Vision Events</span></span><div class="hoverTooltip group-hover:opacity-100"><span>Vision Events</span></div></a><a class="navLink buttonItem desktop group relative z-40 models " href="https://app.roboflow.com/moustaphas-workspace-japs9/models" tabindex="5"><span class="linkLabel"><i class="far relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110 fa-fw linkIcon fa-chart-network"><i class="linkIconHover fas fa-chart-network absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-100"></i></i><span class="linkText">Models</span></span><div class="hoverTooltip group-hover:opacity-100"><span>Models</span></div></a><div class="headless-menu px-.05 deploymentsDropdown group relative hidden w-full md:flex" data-headlessui-state=""><button class="navLink desktop " aria-label="Deployments" id="headlessui-menu-button-:r1:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><div class="linkLabel"><i class="fa-fw linkIcon fa-regular fa-server relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110"><i class="linkIconHover fa-regular fa-server absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-50"></i></i><span class="linkText">Deployments</span></div><i class="far linkTrailingIcon fa-chevron-right fa-fw flex-none pt-0.5 text-[10px] text-gray-200 group-hover:text-white"></i></button><div class="hoverTooltip pointer-events-none absolute -right-4 top-0 z-40 h-10 translate-x-full group-hover:opacity-100"><span>Deployments</span></div></div><div class="md:hidden"><div class="flex flex-row items-center"><button class="navLink mobile no-arrow flex flex-1 flex-row items-center gap-2 rounded-l bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" aria-label="Deployments"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-server fa-fw linkIcon"></i><span class="linkText pt-0.5 text-sm">Deployments</span></div><i class="far fa-chevron-down fa-fw ml-auto text-xs text-gray-400 transition-transform duration-200 "></i></button></div></div><a class="navLink bottom desktop universe buttonItem group relative" target="_blank" href="https://universe.roboflow.com/" aria-label="Go to Roboflow Universe"><div class="linkLabel"><i class="far fa-fw linkIcon fa-planet-ringed relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110"><i class="linkIconHover fas fa-planet-ringed absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-100"></i></i><span class="linkText">Explore</span><div class="hoverTooltip group-hover:opacity-100"><div class="flex flex-col gap-0.5">Roboflow Universe<span class="text-xs opacity-50">Browse public datasets &amp; models</span></div></div></div></a><div class="headless-menu px-.05 accountDropdown group relative hidden w-full md:flex" data-headlessui-state=""><button class="navLink desktop " aria-label="Workspace Settings" id="headlessui-menu-button-:r2:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><div class="linkLabel"><i class="fa-fw linkIcon fa-regular fa-gear relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110"><i class="linkIconHover fa-regular fa-gear absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-50"></i></i><span class="linkText">Settings</span></div><i class="far linkTrailingIcon fa-chevron-right fa-fw flex-none pt-0.5 text-[10px] text-gray-200 group-hover:text-white"></i></button><div class="hoverTooltip pointer-events-none absolute -right-4 top-0 z-40 h-10 translate-x-full group-hover:opacity-100"><span>Workspace Settings</span></div></div><div class="md:hidden"><div class="pb-1 pl-2 pt-2 text-xs font-medium uppercase text-gray-500">Workspace Settings</div><a class="navLink mobile no-arrow flex flex-row items-center gap-2 rounded bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" href="https://app.roboflow.com/settings/plan?fsrc=navbar" tabindex="3"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-credit-card fa-fw linkIcon"></i><span class="linkText pt-0.5 text-sm">Plan &amp; Billing</span></div></a><a class="navLink mobile no-arrow flex flex-row items-center gap-2 rounded bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" href="https://app.roboflow.com/settings/usage" tabindex="4"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-coins fa-fw linkIcon"></i><span class="linkText pt-0.5 text-sm">Credit Usage</span></div></a><a class="navLink mobile no-arrow flex flex-row items-center gap-2 rounded bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" href="https://app.roboflow.com/settings/members" tabindex="5"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-users fa-fw linkIcon"></i><span class="linkText pt-0.5 text-sm">Team Members</span></div></a><a class="navLink mobile no-arrow flex flex-row items-center gap-2 rounded bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" href="https://app.roboflow.com/settings/api" tabindex="6"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-key fa-fw linkIcon"></i><span class="linkText pt-0.5 text-sm">API Keys</span></div></a></div></div></div><div class="flex flex-col items-center gap-1"><div class="w-full" data-headlessui-state=""><div tabindex="4" class="navLink desktop bottom buttonItem group relative" aria-label="Activity" aria-expanded="false" data-headlessui-state="" id="headlessui-popover-button-:r3:"><div class="linkLabel"><i class="far fa-fw linkIcon fa-bell relative translate-y-0 scale-100 transition-all duration-200 group-hover:translate-y-[-.5px] group-hover:scale-110"><i class="linkIconHover fas fa-bell absolute left-0 top-0 opacity-0 transition duration-200 group-hover:opacity-100"></i><span class="absolute -right-1 -top-1"></span></i><span class="linkText">Activity</span></div><div class="hoverTooltip group-hover:opacity-100"><span>Activity</span></div></div></div><div hidden="" style="position: fixed; top: 1px; left: 1px; width: 1px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border-width: 0px; display: none;"></div><div class="headless-menu px-.05 accountDropdown group relative hidden w-full md:flex" data-headlessui-state=""><button class="accountButton bottom group" id="headlessui-menu-button-:r6:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><div class="UserAvatar cursor-default !min-w-0 !cursor-pointer"><div class="avatarCircle relative small border-none ring-1 ring-gray-300 ring-opacity-30"><img src="./Sign in to Roboflow_files/249978609" alt="Moustapha Gueye" class="h-full w-full object-cover rounded-full"></div><div class="userInfo"><div class="displayName userName">Moustapha Gueye</div></div></div><i class="chevron far fa-chevron-right fa-fw pr-1 !text-[10px] group-hover:text-white"></i></button><div class="hoverTooltip pointer-events-none absolute -right-4 top-0 z-40 h-10 translate-x-full group-hover:opacity-100"><span>My Account</span></div></div><div class="pb-2 md:hidden"><div class="pb-1 pl-2 pt-2 text-xs font-medium uppercase text-gray-500">User Settings</div><a class="navLink mobile no-arrow flex flex-row items-center gap-2 rounded bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" href="https://app.roboflow.com/settings/account" tabindex="3"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-user fa-fw linkIcon"></i><span class="linkText text-sm">Account Settings</span></div></a><a class="navLink mobile no-arrow flex flex-row items-center gap-2 rounded bg-transparent p-2 pl-3 transition duration-200 hover:bg-gray-200 hover:bg-opacity-60" href="https://app.roboflow.com/logout" tabindex="4"><div class="linkLabel flex flex-row items-center gap-2"><i class="fal fa-sign-out fa-fw linkIcon"></i><span class="linkText text-sm">Sign Out</span></div></a></div></div></div><div class="flex flex-col border-t border-white border-opacity-20 bg-black bg-opacity-20 gap-2 p-2"><a href="https://app.roboflow.com/settings/usage?fsrc=navbar-usage-bar" class="navLink desktop"><i class="far fa-coins text-xs text-white"></i></a><div class="buttonItem group relative flex w-full items-center justify-center"><button class="upgradeButton"><i class="fa-kit fa-upgrade-arrow"></i><span class="font-sans">Upgrade</span></button><div class="hoverTooltip pointer-events-none absolute -right-4 top-0 z-40 h-10 translate-x-full group-hover:opacity-100"><span class="font-sans">Upgrade</span></div></div></div></div><div class="mobile relative flex h-16 w-full flex-row items-center justify-between p-3 md:hidden"><a href="https://app.roboflow.com/" aria-label="Roboflow Universe Home" class="absolute left-2 top-2 z-10 flex w-max translate-y-1/2 flex-row items-center justify-center gap-[10px] pl-2"><svg class="logomark relative h-6 w-6 flex-none"><use href="#logomark"></use></svg><svg class="wordmark h-5 w-[87px] flex-none pb-1"><use href="#wordmark"></use></svg></a><div class="flex h-full w-full items-center justify-end gap-1"><button class="flex h-8 w-8 flex-none items-center justify-center rounded bg-transparent transition duration-200 hover:bg-white hover:bg-opacity-40" aria-label="Activity"><i class="far fa-fw fa-bell relative flex-none text-xs text-gray-200 group-hover:text-white"><span class="absolute -right-1 -top-1"></span></i></button><button class="flex h-8 w-8 flex-none items-center justify-center rounded bg-transparent transition duration-200 hover:bg-white hover:bg-opacity-40" aria-label="Menu"><i class="far fa-bars flex-none text-xs text-gray-200 group-hover:text-white"></i></button><div hidden="" style="position: fixed; top: 1px; left: 1px; width: 1px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border-width: 0px; display: none;"></div></div></div></nav></div></div><div id="header" style="background: transparent; display: none;"></div><div id="rf-portal-root" class="reactRoot"></div><div id="content" class=""><!-- main header -->
+
+
+<!-- project sidebar -->
+<div id="sidebarContainer"><div class="project-sidebar ">
+
+
+    <div class="topInfo">
+                <a href="https://app.roboflow.com/moustaphas-workspace-japs9" class="workspaceName hover:text-secondary truncate" id="projectBackLink" data-current-group="">
+                    <i class="fas fa-arrow-left mr-1 flex-shrink-0"></i>
+                    <span class="truncate">
+                            Moustaphas Workspace
+                    </span>
+                </a>
+        <div class="overflow-visible relative">
+            <div data-react="EditDescriptionDialog" data-project="uZfuqy0aq9jNndWhFqDS" data-url="tomate-sst99-essrp" data-description="" data-public="true"><button class="absolute -right-2 -top-2 z-10 flex h-6 w-6 flex-none items-center justify-center rounded-md"><div class="group relative h-3 h-full w-3 w-full rounded-full border border-brand bg-purboflow-100 transition duration-200 hover:bg-purboflow-200"><div class="pointer-events-none absolute -right-2 top-[6px] z-20 -translate-y-1/2 translate-x-full items-center justify-center whitespace-nowrap rounded border border-brand bg-white p-[6px] text-xs font-normal text-gray-600 opacity-0 shadow transition duration-200 group-hover:opacity-100">Missing project description<i class="far fa-arrow-right pl-1 text-[10px] text-brand"></i></div><div class="absolute z-20 h-full w-full animate-ping rounded-full bg-purboflow-100"></div></div></button></div>
+            <div class="cover-photo">
+                    <div class="photo" style="
+                background-image:
+                url(&#39;https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/dAExj3YQo9kveYm5RJKw/annotation-Tomate.png?v=1776178042&#39;),
+                url(&#39;https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/dAExj3YQo9kveYm5RJKw/thumb.jpg&#39;);"></div>
+
+                <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/models/tomate-sst99-essrp/1#" id="publicProjectLink" class="!text-white absolute bottom-0 z-20 text-[11px] font-medium hover:text-white hover:bg-opacity-80 hover:underline transition duration-200 shadow-md py-1 bg-black bg-opacity-50 w-full text-center rf-hidden">
+                            View on Universe
+                </a>
+
+                    <div class="absolute privacy top-[-0.1rem] left-[-0.1rem]">
+                        <div class="group relative">
+                            <i class="far fa-globe"></i>
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+
+
+        <div class="projectInfo hasContextMenu">
+            <div class="projectTitleLine">
+
+                <div class="min-w-0 flex-1">
+                    <div data-react="DelayedTooltip" data-content="Tomate " data-delay="[500,0]" data-placement="top" data-class-name="text-sm font-semibold text-gray-900 transition duration-200" data-allow-immediate-copy="true"><span class="flex min-w-0 select-none items-center gap-1.5 cursor-copy text-sm font-semibold text-gray-900 transition duration-200"><span class="truncate">Tomate </span></span></div>
+                </div>
+
+
+                            <div class="dropdown">
+                                <button class="trigger"><i class="far fa-ellipsis-v pb-1"></i></button>
+                                <div class="menu">
+                                    <button href="#" data-url="tomate-sst99-essrp" class="copyProjectUrlButton !items-start"><i class="mt-1 far fa-fw fa-copy"></i>Copy Project Id</button>
+                                    <button href="#" data-id="uZfuqy0aq9jNndWhFqDS" data-url="tomate-sst99-essrp" class="renameDatasetAction"><i class="far fa-fw fa-pencil"> </i>Rename
+                                        Project</button>
+                                    <span data-react="ConvertProjectToPrivateButton" data-project-id="uZfuqy0aq9jNndWhFqDS" data-project-name="Tomate "><a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/models/tomate-sst99-essrp/1#"><i class="far fa-fw fa-lock"></i> Make Private<div class="pointer-events-none ml-1 flex items-center justify-center"><div class="chip square yellow cursor-pointer"><i class="fas fa-lock"></i></div></div></a></span>
+                                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/overview">
+                                            <i class="far fa-book-open"></i>
+                                            Project Overview
+                                        </a>
+                                    <hr class="my-1">
+                                    <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/delete" class="danger"><i class="far fa-fw fa-trash-alt"></i> Delete Project</a>
+                                </div>
+                            </div>
+            </div>
+            <div class="flex flex-row items-center gap-2">
+                <span class="projType">
+                    Object Detection
+                </span>
+            </div>
+        </div>
+
+
+    </div>
+
+    <nav class="sidebarNavigation">
+
+
+                <div class="sidebarSection">
+                    <div class="sectionHeader">Data</div>
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/upload" id="upload" class="nav-link animated ">
+                            <div class="label" aria-label="Upload Data">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-arrow-up"></i>
+                                </div>
+                                <span class="text">Upload Data</span>
+                            </div>
+                        </a>
+
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/annotate" id="annotate" class="nav-link animated " aria-label="Annotate">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-object-group !text-sm md:!text-[13px]"></i>
+                                </div>
+                                <span class="text">Annotate</span>
+                            </div>
+                        </a>
+
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/browse" id="browse" class="datasetItem nav-link animated " aria-label="Dataset">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-images"></i>
+                                </div>
+                                <span class="text">Dataset</span>
+                            </div>
+                            <span class="count">602</span>
+                        </a>
+
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/versions" id="versions" class="nav-link animated " aria-label="Versions">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-rectangle-vertical-history !text-xs md:!text-[11px]"></i>
+                                </div>
+                                <span class="text">Versions</span>
+                            </div>
+                        </a>
+
+                    <hr class="hidden md:flex mx-2 my-1">
+
+                            <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/health" id="health" class="nav-link animated " aria-label="Analytics">
+                                <div class="label">
+                                    <div class="icon">
+                                        <i class="fa-fw far fa-heartbeat"></i>
+                                    </div>
+                                    <span class="text">Analytics</span>
+                                </div>
+                            </a>
+
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/settings" class="nav-link animated " aria-label="Classes &amp; Tags">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-list-ol"></i>
+                                </div>
+                                <span class="text">Classes &amp; Tags</span>
+                            </div>
+                        </a>
+                </div>
+
+
+                    <div class="sidebarSection">
+                        <div class="sectionHeader">Models</div>
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/train" id="train" class="nav-link animated " aria-label="Train">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-circle-nodes"></i>
+                                </div>
+                                <span class="text">Train</span>
+                            </div>
+                        </a>
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/models" class="nav-link animated selected" aria-label="Models">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-chart-network"></i>
+                                </div>
+                                <span class="text">Models</span>
+                            </div>
+                        </a>
+
+
+                        <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/visualize" class="model nav-link animated " aria-label="Visualize">
+                            <div class="label">
+                                <div class="icon">
+                                    <i class="fa-fw far fa-chart-bar"></i>
+                                </div>
+                                <span class="text">Visualize</span>
+                            </div>
+                        </a>
+</div>
+
+
+
+        <div class="sidebarSection">
+
+            <div class="sectionHeader">Deploy</div>
+
+                <a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/deploy" class="model nav-link animated " aria-label="Deployments">
+                    <div class="label">
+                        <div class="icon">
+                            <i class="fa-fw far fa-rocket"></i>
+                        </div>
+                        <span class="text">Deployments</span>
+                    </div>
+                </a>
+
+        </div>
+
+
+        <div data-react="FreeTrainGpuCard"></div>
+
+</nav>
+</div></div>
+<!-- content container -->
+<div class="flex flex-col flex-1 min-h-0 min-w-0">
+    <div id="FolderAlertManager" data-react="FolderAlertManager" data-class-name="sticky top-0 z-40 flex w-full flex-col items-stretch justify-center pt-4 px-10"></div>
+    <div id="projectContainer" data-project="tomate-sst99-essrp"><div id="modelsPageContainer" class="reactRoot projectPageContainer !p-0"><div><div class="internalPage !h-auto" style="max-height: none;"><div class="flex flex-wrap items-center justify-between"><div class="flex items-center gap-x-3"><a class="text-gray-900" href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/models"><i class="far fa-arrow-left text-base hover:text-gray-500"></i></a><h1 class="margin-0 text-2xl font-medium text-gray-700"><div class="group flex items-center gap-1"><span class="truncate font-medium text-gray-900">Tomate  1</span><button class="flex-none opacity-0 transition-opacity group-hover:opacity-100" title="Edit model name"><i class="far fa-pencil text-xs text-gray-400 hover:text-gray-600"></i></button></div></h1></div><div class="flex items-center gap-x-3"><a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/visualize/1"><button class="btn2 medium secondary relative"><i class="far fa-bar-chart"></i> Visualize</button></a><button class="btn2 medium secondary relative"><i class="far fa-download"></i> Download Weights</button><button class="btn2 medium primary relative"><i class="far fa-rocket"></i> Deploy Model</button></div></div><div class="gap-8 flex flex-col"><div class="rounded-lg border-b-1 border-l-1 border-r-1 border-t-1 border-gray-300 p-6 xl:p-7"><div class="gap-4 sm:flex-row sm:gap-6 flex flex-col items-start justify-between"><div class="grid-cols-1 grid-rows-5 sm:grid-cols-2 sm:grid-rows-3 lg:auto-cols-fr lg:grid-rows-2 grid grid-flow-col gap-4 xl:min-w-0 xl:flex-shrink xl:gap-x-12"><div class="col-span-1 row-span-1"><div class="flex flex-col gap-1.5"><div class="text-sm font-medium text-gray-700">Model URL:</div><div class="flex items-center text-sm text-gray-900"><div class="flex items-center gap-1"><div class="max-w-[200px] truncate">tomate-sst99-essrp/1</div><button class="btn2 small ghost circle relative ml-1 flex !h-5 !w-5 flex-none !rounded !text-[10px]" title="Copy"><i class="fal fa-copy !m-0"></i></button></div></div></div></div><div class="col-span-1 row-span-1"><div class="flex flex-col gap-1.5"><div class="text-sm font-medium text-gray-700">Updated On:</div><div class="flex items-center text-sm text-gray-900"><div class="flex items-center gap-2"><div><div class="chip text green flex flex-none items-center justify-center border text-[10px] h-5 w-5 rounded border-green-600"><i class="fas fa-check fa-fw"></i></div></div>14/04/2026 15:30</div></div></div></div><div class="col-span-1 row-span-1"><div class="flex flex-col gap-1.5"><div class="text-sm font-medium text-gray-700">Checkpoint:</div><div class="flex items-center text-sm text-gray-900"><div class="flex items-center">-</div></div></div></div><div class="col-span-1 row-span-1"><div class="flex flex-col gap-1.5"><div class="text-sm font-medium text-gray-700">Model Type:</div><div class="flex items-center text-sm text-gray-900">Roboflow RF-DETR Object Detection (Small)</div></div></div><div class="col-span-1 row-span-1"><div class="flex flex-col gap-1.5"><div class="text-sm font-medium text-gray-700">Dataset Version:</div><div class="flex items-center text-sm text-gray-900"><div class="-ml-2 -mt-1 flex items-center"><a href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/1" class="group ml-1 rounded bg-transparent p-1 text-gray-600 hover:bg-purple-100 hover:text-purple-800"><span>2026-04-14 2:47pm <i class="fas fa-arrow-up-right text-xs text-purple-600 group-hover:text-purple-800"></i></span></a></div></div></div></div></div><div class="flex flex-col gap-2 rounded-lg border border-gray-400 bg-gray-50 p-5"><div class="flex flex-row items-center justify-between"><div class="flex flex-row items-center gap-1"><span class="text-sm font-medium text-gray-700">Metrics</span><i class="far transiton fa-question-circle flex h-6 w-6 flex-none items-center justify-center rounded text-sm text-gray-500 duration-200 hover:bg-gray-300 hover:text-gray-800" aria-expanded="false"></i></div></div><div class="flex flex-col gap-1"><div class="flex items-center justify-between gap-x-4 gap-y-2"><div class="whitespace-nowrap text-[10px] text-gray-500">Valid Set</div><div class="flex flex-row items-center gap-1"><div class="text-[10px] text-gray-500">External</div><i class="far fa-question-circle flex h-4 w-4 flex-none items-center justify-center rounded text-[10px] text-gray-500 transition duration-200 hover:bg-gray-300 hover:text-gray-800" aria-expanded="false"></i></div></div><div class="flex w-full flex-nowrap gap-4 pt-1 md:w-min md:flex-wrap lg:flex-nowrap lg:gap-x-6"><div class="flex items-center gap-x-3"><div class="relative h-9 w-2"><div class="flex-shrink-0 rounded-full bg-white ring-1 ring-gray-400 h-9 w-2"><div class="h-full rounded-full bg-gray-200 ring-1 ring-offset-0 ring-gray-600" style="height: 92.6%; position: absolute; bottom: 0px; width: 100%;"></div></div></div><div class="flex flex-col gap-2"><div class="text-[13px] text-gray-700">mAP@50</div><div class="w-10 truncate font-mono text-xs font-medium text-gray-900">92.6%</div></div></div><div class="flex items-center gap-x-3"><div class="relative h-9 w-2"><div class="flex-shrink-0 rounded-full bg-white ring-1 ring-gray-400 h-9 w-2"><div class="h-full rounded-full bg-gray-200 ring-1 ring-offset-0 ring-gray-600" style="height: 94.3%; position: absolute; bottom: 0px; width: 100%;"></div></div></div><div class="flex flex-col gap-2"><div class="text-[13px] text-gray-700">Precision</div><div class="w-10 truncate font-mono text-xs font-medium text-gray-900">94.3%</div></div></div><div class="flex items-center gap-x-3"><div class="relative h-9 w-2"><div class="flex-shrink-0 rounded-full bg-white ring-1 ring-gray-400 h-9 w-2"><div class="h-full rounded-full bg-gray-200 ring-1 ring-offset-0 ring-gray-600" style="height: 84.7%; position: absolute; bottom: 0px; width: 100%;"></div></div></div><div class="flex flex-col gap-2"><div class="text-[13px] text-gray-700">Recall</div><div class="w-10 truncate font-mono text-xs font-medium text-gray-900">84.7%</div></div></div><div class="flex items-center gap-x-3"><div class="relative h-9 w-2"><div class="flex-shrink-0 rounded-full bg-white ring-1 ring-gray-400 h-9 w-2"><div class="h-full rounded-full bg-gray-200 ring-1 ring-offset-0 ring-gray-600" style="height: 89.2%; position: absolute; bottom: 0px; width: 100%;"></div></div></div><div class="flex flex-col gap-2"><div class="text-[13px] text-gray-700">F1</div><div class="w-10 truncate font-mono text-xs font-medium text-gray-900">89.2%</div></div></div></div></div></div></div></div></div><div class="mt-6"><div class="rounded-lg flex flex-col items-start justify-center gap-4 border border-yellow-600 bg-white p-6"><div class="flex w-full flex-row flex-wrap items-start justify-between gap-3"><div class="flex flex-row items-center gap-3"><div class="self-center flex items-center justify-center"><div class="chip square yellow cursor-pointer"><i class="fas fa-lock"></i></div></div><h4 class="text-lg font-medium text-yellow-700">Model Evaluation</h4></div><div class="flex flex-row flex-wrap items-center gap-2 lg:flex-nowrap"><div class="chip text yellow text-xs">Metrics Explorer</div><div class="chip text yellow text-xs">Improvement Recommendations</div><div class="chip text yellow text-xs">Confusion Matrix</div><div class="chip text yellow text-xs">+ More</div></div></div><p class="py-1 text-left text-sm text-yellow-900">Upgrade for a suite of premium features to understand and improve model performance.</p><button class="btn2 medium upgrade relative w-full">Upgrade for Access</button></div><div hidden="" style="position: fixed; top: 1px; left: 1px; width: 1px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border-width: 0px; display: none;"></div></div><div class="mt-6 rounded border border-gray-300 p-5"><h2 class="mb-4 text-base font-semibold">Preview Model</h2><div class="rfWidget relative"><div class="onPagePanel new !h-full !px-0" id="dropFilesReact"><div class="content"><div class="details gap-2"><div class="flex w-full flex-col gap-2 sm:flex-row lg:w-48 lg:flex-col lg:gap-3 xl:w-60"><div class="flex w-full max-w-full flex-col gap-3 rounded-md border px-4 py-3 shadow sm:max-w-[300px] sm:gap-5 lg:max-w-full lg:gap-3 border-gray-300"><p class="title !m-0 text-sm font-medium text-gray-900" id="presentSampleImages">Samples from Test Set</p><div id="sampleImages" class="flex max-w-full flex-row flex-wrap justify-start gap-3 sm:max-w-[300px] sm:justify-center md:gap-5 lg:max-w-full lg:gap-3"><div class="sampleImage image inline-block h-10 w-10 cursor-pointer rounded-md bg-gray-200 bg-cover bg-center sm:h-16 sm:w-16 lg:h-10 lg:w-10" data-url="https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/JY5SN71qdY1V9QstELpa/original.jpg" style="background-image: url(&quot;https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/JY5SN71qdY1V9QstELpa/original.jpg&quot;);"></div><div class="sampleImage image inline-block h-10 w-10 cursor-pointer rounded-md bg-gray-200 bg-cover bg-center sm:h-16 sm:w-16 lg:h-10 lg:w-10" data-url="https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/XHYeSJGPJWIIizQbydiL/original.jpg" style="background-image: url(&quot;https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/XHYeSJGPJWIIizQbydiL/original.jpg&quot;);"></div><div class="sampleImage image inline-block h-10 w-10 cursor-pointer rounded-md bg-gray-200 bg-cover bg-center sm:h-16 sm:w-16 lg:h-10 lg:w-10" data-url="https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/7WzsJhrRv3gfE8e4jwXp/original.jpg" style="background-image: url(&quot;https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/7WzsJhrRv3gfE8e4jwXp/original.jpg&quot;);"></div><div class="sampleImage image inline-block h-10 w-10 cursor-pointer rounded-md bg-gray-200 bg-cover bg-center sm:h-16 sm:w-16 lg:h-10 lg:w-10" data-url="https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/DjIDlMf7E5i2LkqRl0FF/original.jpg" style="background-image: url(&quot;https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/DjIDlMf7E5i2LkqRl0FF/original.jpg&quot;);"></div></div><a class="btn2 xxsmall w-max self-end purbo-ghost" id="sampleVisualize" href="https://app.roboflow.com/moustaphas-workspace-japs9/tomate-sst99-essrp/1/images?split=test&amp;predictions=true"><span>View Test Set</span><i class="far fa-arrow-right text-[9px]"></i></a></div><div class="flex flex-1 flex-col gap-2 sm:gap-3"><div class="flex flex-1 flex-col gap-2 rounded-md border px-4 py-3 shadow border-gray-300"><p class="title !m-0 text-sm font-medium text-gray-900">Upload Image or Video File</p><div class="actionItemsContainer flex-1"><div class="actionItems h-full flex-col gap-2"><span class="text-sm font-normal text-gray-700">Drop file here or</span><div class="flex w-full items-center justify-center"><input id="rfWidgetReactFileInput" type="file" hidden=""><label class="btn2 xsmall secondary" id="fileInputLabel" for="rfWidgetReactFileInput"><i class="fa-fw far fa-upload"></i><span>Select File</span></label></div></div><div class="borderGradient"></div></div></div><div class="flex flex-col gap-2 rounded-md border px-4 py-3 shadow md:py-4 lg:py-3 bg-white"><p class="title !m-0 w-full text-sm font-medium text-gray-900">Image URL</p><form id="inferUrlForm" class="flex items-center gap-2"><i id="inferUrlIcon" class="fa-fw far fa-link"></i><input id="inferUrl" placeholder="Paste a link..." class="input2 medium w-full" type="text" value=""></form></div><div class="flex flex-col gap-2"><div class="btn2 w-full !shadow secondary" id="useWebcam"><i class="fa-fw far fa-webcam" id="useWebcamIcon"></i>Try With Webcam</div></div><a class="btn2 w-full !shadow primary" href="https://inference.roboflow.com/quickstart/explore_models/#run-a-private-fine-tuned-model" target="_blank" id="useInference"><i class="fa-fw far fa-code" id="useMyMachine"></i>Try On My Machine</a></div></div></div><div class="imageOutput relative min-h-[500px] overflow-hidden bg-black" id="imageOutput"><div id="inferenceImage" class="relative"><canvas width="900" height="478" id="rfWidgetCanvas" style="width: 100%; height: 100%; position: absolute; top: 0px; left: 0px; object-fit: contain;"></canvas><img id="rfWidgetImage" src="https://source.roboflow.com/Mt0oNSvh5oPHXcz0TXQjG5g1kxG2/dAExj3YQo9kveYm5RJKw/original.jpg" style="object-fit: contain; width: 600px; height: 319.149px;"></div><div class="absolute inset-0 z-10 grid place-items-center px-4 text-center" id="placeholderText" style="display: none;"><h2 class="text-xl font-bold text-gray-400 lg:w-3/4">Try this model on images, video, or use your webcam</h2></div><div class="rf-hidden absolute right-4 top-4 font-mono text-sm text-white"><div id="fps" class="inline">0</div> fps</div><div id="countContainer" class="absolute bottom-4 right-4 font-mono text-sm text-white"><div id="objectCount" class="inline">2</div> object<span class="s">s</span> detected</div><div class="absolute right-0 top-0 h-full w-full bg-black text-xl text-purple-600 opacity-40" id="rfWidgetLoader" style="display: none;"><i class="fas fa-spinner fa-spin absolute left-1/2 top-1/2"></i></div></div><div class="flex h-full max-h-full w-full flex-col gap-2 pb-0 pl-0 md:flex-none lg:w-48 lg:gap-3 lg:pl-4 xl:w-60"><div class="sliderControl"><div class="thresh sliderWithLabel"><p class="sliderLabel">Confidence Threshold:<span id="confidenceThreshold">50</span></p><div class="sliderContainer"><p>0%</p><input type="range" min="1" max="99" class="roboslider" id="confidenceSliderReact" value="50"><p>100%</p></div></div><div class="thresh sliderWithLabel"><p class="sliderLabel">Overlap Threshold:<span id="react-overlap-value">50</span></p><div class="sliderContainer"><p>0%</p><input type="range" min="1" max="99" class="roboslider" id="react-overlap-slider" value="50"><p>100%</p></div></div><div class="thresh sliderWithLabel"><p class="sliderLabel">Opacity Threshold:<span id="react-opacity-value">75</span></p><div class="sliderContainer"><p>0%</p><input type="range" min="1" max="99" class="roboslider" id="react-opacity-slider" value="75"><p>100%</p></div></div><div class="flex flex-col gap-[6px]"><span class="font-xs font-medium text-gray-900">Label Display Mode:</span><div class="flex w-full"><select id="displayModeSelect" class="form-select w-full max-w-full px-3 py-2 text-xs"><option value="predictions">Draw Confidence</option><option value="predictions-with-labels">Draw Labels</option><option value="boxes">Draw Boxes</option><option value="censor">Censor Predictions</option></select></div></div></div><div class="relative flex h-[150px] w-full flex-1 flex-shrink overflow-auto rounded-md border p-3 shadow border-gray-300 bg-white"><pre class="jsonOutput" id="inferenceJson">{
+  "predictions": [
+    {
+      "x": 1785.5,
+      "y": 484,
+      "width": 191,
+      "height": 284,
+      "confidence": 0.678,
+      "class": "Tomate",
+      "class_id": 0,
+      "detection_id": "04e046cf-ad47-4852-9242-ff3935687df6"
+    },
+    {
+      "x": 1317.5,
+      "y": 733,
+      "width": 455,
+      "height": 430,
+      "confidence": 0.529,
+      "class": "Tomate",
+      "class_id": 0,
+      "detection_id": "10edb950-f790-4268-8f41-ca6e40b86a44"
+    }
+  ]
+}</pre><button class="btn2 medium primary btn2 xsmall absolute bottom-0 right-0 !bg-white purbo-ghost" id="copyJson" style="visibility: visible; opacity: 1;">Copy<i class="far fa-fw fa-copy"></i></button></div></div></div></div></div></div><div class="mt-6 rounded border border-gray-300 p-5"><div class="flex items-center justify-between"><h2 class="mb-4 text-base font-semibold">Training Graphs</h2></div><div class="mt-6"><div class="mt-4"><div class="px-2"><div id="trainingGraphContainer-React" style="height: 26rem;"><div class="flex h-full flex-col"><div class="relative min-h-0 flex-1"><div class="absolute bottom-[4.5rem] right-5 z-[5] flex items-center gap-2.5"><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom In"><i class="far fa-plus"></i></button><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom Out"><i class="far fa-minus"></i></button></div><canvas role="img" height="624" width="1305" style="display: block; box-sizing: border-box; height: 416px; width: 870px;"></canvas></div></div></div><div class="flex flex-col overflow-auto md:flex-row"><div class="h-72 w-full md:w-1/3" id="boxLossTrainingGraphContainer-React"><div class="flex h-full flex-col"><div class="relative min-h-0 flex-1"><div class="absolute bottom-[4.5rem] right-5 z-[5] flex items-center gap-2.5"><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom In"><i class="far fa-plus"></i></button><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom Out"><i class="far fa-minus"></i></button></div><canvas role="img" height="432" width="435" style="display: block; box-sizing: border-box; height: 288px; width: 290px;"></canvas></div></div></div><div class="h-72 w-full md:w-1/3" id="classLossTrainingGraphContainer-React"><div class="flex h-full flex-col"><div class="relative min-h-0 flex-1"><div class="absolute bottom-[4.5rem] right-5 z-[5] flex items-center gap-2.5"><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom In"><i class="far fa-plus"></i></button><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom Out"><i class="far fa-minus"></i></button></div><canvas role="img" height="432" width="435" style="display: block; box-sizing: border-box; height: 288px; width: 290px;"></canvas></div></div></div><div class="h-72 w-full md:w-1/3" id="objectLossTrainingGraphContainer-React"><div class="flex h-full flex-col"><div class="relative min-h-0 flex-1"><div class="absolute bottom-[4.5rem] right-5 z-[5] flex items-center gap-2.5"><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom In"><i class="far fa-plus"></i></button><button class="flex h-7 w-7 items-center justify-center rounded-md border border-gray-200 bg-white text-xs text-gray-600 opacity-80 shadow-sm transition-colors hover:bg-gray-50 hover:text-gray-900 hover:opacity-100" title="Zoom Out"><i class="far fa-minus"></i></button></div><canvas role="img" height="432" width="435" style="display: block; box-sizing: border-box; height: 288px; width: 290px;"></canvas></div></div></div></div></div></div></div></div><div class="mt-6"><div class="overflow-x-auto rounded border border-gray-300 p-5"><h2 class="mtext-base font-semibold text-gray-700">Average Precision by Class<span class="ml-2 text-xs font-normal text-gray-700">(mAP50)</span></h2><p class="mt-1 text-sm font-normal text-gray-700">These metrics are reported by the model provider and may not follow industry-standard evaluation techniques. Learn more about model evaluation best practices and important caveats <a href="https://blog.roboflow.com/roboflow-verified-model-metrics/" target="_blank" rel="noopener noreferrer">here</a>.</p><div class="relative mt-3"><div class="flex gap-1 border-b border-gray-200" role="tablist" aria-orientation="horizontal"><button class="border-brand font-medium text-brand flex items-center gap-2 border-b-2 px-4 py-2 text-left text-sm transition duration-200 focus:outline-none focus-visible:outline-none focus-visible:ring-0 cursor-pointer disabled:cursor-not-allowed disabled:opacity-50 focus-visible:ring-brand pl-0 pr-0" id="Validation" role="tab" type="button" aria-selected="true" tabindex="0" data-headlessui-state="selected" aria-controls="Validation" style="font-family: Inter;">Validation Set</button><button class="border-transparent text-gray-500 hover:border-gray-200 hover:bg-gray-50 hover:text-gray-700 flex items-center gap-2 border-b-2 px-4 py-2 text-left text-sm transition duration-200 focus:outline-none focus-visible:outline-none focus-visible:ring-0 cursor-pointer disabled:cursor-not-allowed disabled:opacity-50 focus-visible:ring-brand" id="Test" role="tab" type="button" aria-selected="false" tabindex="-1" data-headlessui-state="" aria-controls="Test" style="font-family: Inter;">Test Set</button></div><div class="rounded border-b border-l border-r border-gray-200 bg-gray-50 px-5 py-3"><div id="Validation" role="tabpanel" tabindex="0" data-headlessui-state="selected" aria-labelledby="Validation"><div class="space-y-0.5"><div class="flex items-center gap-x-1 xl:gap-x-2 w-full justify-between"><div class="min-w-16 text-[13px] text-gray-700">Tomate</div><div class="flex flex-1 items-center gap-x-1 flex-grow justify-end"><div class="w-11 truncate pr-1 text-right font-mono text-xs font-medium text-gray-900">93.0%</div><div class="rounded-full bg-white ring-1 ring-gray-400 w-14 flex-1 h-1.5 flex-grow max-w-[768px]"><div class="h-full rounded-full bg-purple-200 ring-1 ring-offset-0 ring-purple-600" style="width: 93%;"></div></div></div></div><div class="flex items-center gap-x-1 xl:gap-x-2 w-full justify-between"><div class="min-w-16 text-[13px] text-gray-700">all</div><div class="flex flex-1 items-center gap-x-1 flex-grow justify-end"><div class="w-11 truncate pr-1 text-right font-mono text-xs font-medium text-gray-900">93.0%</div><div class="rounded-full bg-white ring-1 ring-gray-400 w-14 flex-1 h-1.5 flex-grow max-w-[768px]"><div class="h-full rounded-full bg-purple-200 ring-1 ring-offset-0 ring-purple-600" style="width: 93%;"></div></div></div></div></div></div><span aria-hidden="true" id="Test" role="tabpanel" tabindex="-1" aria-labelledby="Test" style="position: fixed; top: 1px; left: 1px; width: 1px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border-width: 0px;"></span></div></div></div></div></div></div></div></div>
+</div>
+
+</div><div id="reactRoot"></div><svg style="display: none"><defs><symbol id="logomark" viewBox="0 0 20 20"><g clip-path="url(#clip-path-logomark)"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10M9.311 8.922c.924-.719.519-1.703-1.008-1.513-1.767.22-4.02 1.948-4.582 4.023a4.3 4.3 0 00-.145 1.035 3.8 3.8 0 00.129 1.018 3.8 3.8 0 00.411.968q.142.237.313.454c.39.493.889.906 1.421 1.234.116.072.24.14.375.147.198.01.348-.148.356-.34a.37.37 0 00-.048-.2c-.448-.79-.818-1.961-.742-2.7.165-1.597 1.59-2.67 2.925-3.673q.304-.227.595-.453m6.781 2.868a.57.57 0 01.584.338c.098.234.011.533-.094.751-.543 1.121-1.14 1.874-1.556 2.315-1.238 1.378-3.174 2.28-4.963 1.54-1.028-.426-1.832-1.382-1.975-2.499-.206-1.615 1.2-2.703 2.438-3.66.36-.279.707-.546.995-.813.782-.723 1.638-1.836 1.24-2.969-.383-1.084-1.658-1.557-2.706-1.666-1.033-.107-2.083.106-3.02.544-.735.344-1.354.866-1.933 1.427q-.106.103-.21.208c-.12.12-.238.24-.364.352-.171.153-.377.294-.61.325-.347.047-.677-.206-.633-.573.072-.593.493-1.11.863-1.552q.344-.41.737-.773a7.8 7.8 0 011.998-1.333 8.2 8.2 0 015.705-.428c1.47.435 2.926 1.457 3.186 3.067.055.342.055.691.006 1.034-.173 1.222-.908 2.314-1.741 3.192-.493.52-1.06.939-1.628 1.358-.453.335-.907.67-1.323 1.057-.547.509-.77 1.134-.11 1.662.904.46 1.655.222 2.476-.277a5.1 5.1 0 001.259-1.12 10 10 0 00.608-.83c.105-.162.212-.327.353-.455a.66.66 0 01.418-.222" fill="#fff"></path></g><defs><clippath id="clip-path-logomark"><path fill="#fff" d="M0 0h20v20H0z"></path></clippath></defs></symbol><symbol id="wordmark" viewBox="0 0 450 82.74"><path d="M17.41 39.7h.19c3.35-6.03 9.09-8.71 15.88-8.71h3.35v16.74c-2.39-1.34-4.69-1.63-7.37-1.63-9.66 0-12.06 6.41-12.06 14.83v19.81H0V31.66h17.41zm82.32 16.55c0 16.65-13.78 26.12-29.57 26.12-15.69 0-29.57-9.38-29.57-26.12s13.78-26.22 29.57-26.22 29.57 9.47 29.57 26.22m-40.77 0c0 6.22 4.11 11 11.19 11s11.19-4.78 11.19-11c0-6.03-4.11-11.1-11.19-11.1-7.07 0-11.19 5.07-11.19 11.1m46.09-54.92h17.41v35.12c3.73-4.31 9.57-6.41 15.21-6.41 14.54 0 24.59 12.06 24.59 26.12 0 14.16-10.14 26.22-24.78 26.22-5.74 0-11.67-2.2-14.83-7.08h-.19v5.45h-17.41zm16.84 54.92c0 6.22 4.11 11 11.19 11s11.19-4.78 11.19-11c0-6.03-4.11-11.1-11.19-11.1-7.07 0-11.19 5.07-11.19 11.1m104.37 0c0 16.65-13.78 26.12-29.57 26.12-15.69 0-29.57-9.38-29.57-26.12s13.78-26.22 29.57-26.22 29.57 9.47 29.57 26.22m-40.76 0c0 6.22 4.11 11 11.19 11s11.19-4.78 11.19-11c0-6.03-4.11-11.1-11.19-11.1s-11.19 5.07-11.19 11.1m67.93 24.49h-17.41V46.01h-6.12V31.66h6.12v-6.22c0-6.79.19-11.77 4.98-17.22 4.31-5.07 10.53-7.85 17.13-7.85 2.68 0 5.07.48 7.46 1.72v15.02c-2.01-.86-3.83-1.63-6.12-1.63-4.5 0-6.03 2.68-6.03 8.23v7.94h12.15V46h-12.15v34.74zm35.88 0H271.9V1.33h17.41zm64.57-24.49c0 16.65-13.78 26.12-29.57 26.12-15.69 0-29.57-9.38-29.57-26.12s13.78-26.22 29.57-26.22 29.57 9.47 29.57 26.22m-40.76 0c0 6.22 4.11 11 11.19 11s11.19-4.78 11.19-11c0-6.03-4.11-11.1-11.19-11.1-7.07 0-11.19 5.07-11.19 11.1m68.99 2.01 12.34-26.6h10.33l12.34 26.6 12.34-26.6h19.23l-25.64 49.09h-11.29l-12.15-26.89-12.15 26.89h-11.29l-25.64-49.09h19.33z" style="fill: #fff"></path></symbol></defs></svg><script type="text/javascript" crossorigin="anonymous" src="./Sign in to Roboflow_files/surveys.js.téléchargement"></script><script type="text/javascript" crossorigin="anonymous" src="./Sign in to Roboflow_files/config.js.téléchargement"></script><script type="text/javascript" crossorigin="anonymous" src="./Sign in to Roboflow_files/exception-autocapture.js.téléchargement"></script><script type="text/javascript" crossorigin="anonymous" src="./Sign in to Roboflow_files/posthog-recorder.js.téléchargement"></script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: &#39;Google Sans&#39;, Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr"><img src="./Sign in to Roboflow_files/24px.svg" width="24" height="24" alt=""><div class=" VIpgJd-yAWNEb-hvhgNd-IuizWc-i3jM8c " dir="ltr">Texte d'origine</div></div><div class="VIpgJd-yAWNEb-hvhgNd-k77Iif"><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Évaluez cette traduction</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Votre avis nous aidera à améliorer Google&nbsp;Traduction</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Bonne traduction" aria-label="Bonne traduction" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Mauvaise traduction" aria-label="Mauvaise traduction" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="https://translate.googleapis.com/translate_voting?client=te_lib" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0" src="./Sign in to Roboflow_files/saved_resource.html"></iframe></div></div></div><iframe name="__privateStripeController6661" frameborder="0" allowtransparency="true" scrolling="no" role="presentation" allow="payment *" src="./Sign in to Roboflow_files/controller-with-preconnect-9250f4e2ee3eca0b663b3e49a79c9876.html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;"></iframe><div id="headlessui-portal-root"><div data-headlessui-portal=""><div></div></div><div data-headlessui-portal=""><div></div></div></div><iframe name="__privateStripeMetricsController6660" frameborder="0" allowtransparency="true" scrolling="no" role="presentation" allow="payment *" src="./Sign in to Roboflow_files/m-outer-3437aaddcdf6922d623e172c2d6f9278.html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;"></iframe><iframe id="intercom-frame" style="position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !important; border: none !important; display: block !important; z-index: -1 !important; pointer-events: none;" aria-hidden="true" tabindex="-1" title="Intercom" src="./Sign in to Roboflow_files/saved_resource(1).html"></iframe><div class="intercom-lightweight-app"><style id="intercom-lightweight-app-style" type="text/css">
+  @keyframes intercom-lightweight-app-launcher {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes intercom-lightweight-app-gradient {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes intercom-lightweight-app-messenger {
+    0% {
+      opacity: 0;
+      transform: scale(0);
+    }
+    40% {
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .intercom-lightweight-app {
+    position: fixed;
+    z-index: 2147483001;
+    width: 0;
+    height: 0;
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+  .intercom-lightweight-app-gradient {
+    position: fixed;
+    z-index: 2147483002;
+    width: 500px;
+    height: 500px;
+    bottom: 0;
+    right: 0;
+    pointer-events: none;
+    background: radial-gradient(
+      ellipse at bottom right,
+      rgba(29, 39, 54, 0.16) 0%,
+      rgba(29, 39, 54, 0) 72%);
+    animation: intercom-lightweight-app-gradient 200ms ease-out;
+  }
+
+  .intercom-lightweight-app-launcher {
+    position: fixed;
+    z-index: 2147483003;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none;
+    bottom: 20px;
+    right: 20px;
+    max-width: 48px;
+    width: 48px;
+    max-height: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #6706CE;
+    cursor: pointer;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.06), 0 2px 32px 0 rgba(0, 0, 0, 0.16);
+    transition: transform 167ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    box-sizing: content-box;
+  }
+
+
+  .intercom-lightweight-app-launcher:hover {
+    transition: transform 250ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    transform: scale(1.1)
+  }
+
+  .intercom-lightweight-app-launcher:active {
+    transform: scale(0.85);
+    transition: transform 134ms cubic-bezier(0.45, 0, 0.2, 1);
+  }
+
+
+  .intercom-lightweight-app-launcher:focus {
+    outline: none;
+
+    
+  }
+
+  .intercom-lightweight-app-launcher-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 48px;
+    height: 48px;
+    transition: transform 100ms linear, opacity 80ms linear;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg {
+    height: 44px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-custom-icon-open {
+    max-height: 24px;
+    max-width: 24px;
+
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize {
+    
+        opacity: 0;
+        transform: rotate(-60deg) scale(0);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  /* Extended launcher styles */
+  .intercom-lightweight-app-launcher.intercom-launcher-extended {
+    width: calc(180px - 30px);
+    max-width: calc(180px - 30px);
+    height: calc(45px - 26px);
+    max-height: calc(45px - 26px);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 16px 12px 12px !important;
+    gap: 6px;
+    /* Use theme background instead of hardcoded gradient */
+    background: #6706CE;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0px -2px 50px rgba(0, 0, 0, 0.1);
+    
+  }
+
+  .intercom-lightweight-app-launcher.intercom-launcher-extended .intercom-lightweight-app-launcher-icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+
+  .intercom-lightweight-app-launcher-text {
+    /* Match text color with launcher icon */
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 140px;
+    opacity: 1;
+    transition: opacity 80ms linear;
+  }
+
+  .intercom-lightweight-app-messenger {
+    position: fixed;
+    z-index: 2147483003;
+    overflow: hidden;
+    background-color: #ffffff;
+    animation: intercom-lightweight-app-messenger 250ms cubic-bezier(0, 1, 1, 1);
+    transform-origin: bottom right;
+
+    
+        width: 400px;
+        height: calc(100% - 40px);
+        max-height: 704px;
+        min-height: 250px;
+        right: 20px;
+        bottom: 20px;
+        box-shadow: 0 5px 40px rgba(0,0,0,0.16);
+      
+
+    border-radius: 24px;
+  }
+
+  .intercom-lightweight-app-messenger-header {
+    height: 64px;
+    border-bottom: none;
+    background: #ffffff;
+  }
+
+  .intercom-lightweight-app-messenger-footer{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    height: 80px;
+    background: #ffffff;
+    font-size: 14px;
+    line-height: 21px;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.05);
+  }
+
+  @media print {
+    .intercom-lightweight-app {
+      display: none;
+    }
+  }
+</style></div></body></html>

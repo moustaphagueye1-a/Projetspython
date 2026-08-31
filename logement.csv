@@ -1,0 +1,15 @@
+Emplacement,Type de maison,Revenu,Client anterieur,Resultat
+banlieue,Unifamiliale,eleve,non,Insatisfait
+banlieue,Unifamiliale,eleve,oui,Insatisfait
+rural,Unifamiliale,eleve,non,Satisfait
+ville,Jumelee,eleve,non,Satisfait
+ville,Jumelee,bas,non,Satisfait
+ville,Jumelee,bas,oui,Insatisfait
+rural,Jumelee,bas,oui,Satisfait
+banlieue,Rangee,eleve,non,Insatisfait
+banlieue,Jumelee,bas,non,Satisfait
+ville,Rangee,bas,non,Satisfait
+banlieue,Rangee,bas,oui,Satisfait
+rural,Rangee,eleve,oui,Satisfait
+rural,Unifamiliale,bas,non,Satisfait
+ville,Rangee,eleve,oui,Insatisfait
